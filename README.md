@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, my name is Egor👋 and I Data Scientist in Sber
 
+# Skills🛠️
+Languages:  Python, SQL
+DS/ML/DL:    SkLearn, PyTorch, Transformers
+DevOps:       Linux, Git, Docker
+Backend:  FastApi, SQLAlchemy, Pandas
 <!--
 **Jeguarko/Jeguarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
