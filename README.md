@@ -1,4 +1,4 @@
-### Hi, my name is Egor👋 and I Data Scientist in Sber
+### Hi, my name is Egor👋 and I Data Scientist
 
 # Skills🛠️
 - Languages:  Python, SQL
